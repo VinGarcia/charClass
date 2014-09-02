@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cipher",
+				"ciphertext"
+			],
+			[
+				"fOri",
+				"fOrigName"
+			],
+			[
+				"fromLittleF",
+				"fromLittleFileHeader"
+			],
+			[
+				"dri",
+				"driverAddr"
+			],
+			[
+				"extra",
+				"extractName"
+			],
+			[
+				"NAME",
+				"NAME_SIZE-1"
+			],
+			[
+				"num",
+				"numFiles"
+			],
+			[
+				"N_",
+				"N_SEC_OF"
+			],
+			[
+				"By",
+				"byteToNSec"
+			],
+			[
+				"pos",
+				"filePos"
+			],
+			[
+				"wbfs_try_open",
+				"wbfs_try_open_partition"
+			],
+			[
+				"byte",
+				"byteToNSec"
+			],
+			[
+				"mall",
+				"lfs_malloc"
+			],
+			[
+				"fh",
+				"tFileHeader"
+			],
+			[
+				"try_open",
+				"wbfs_try_open_partition"
+			],
+			[
+				"undef",
+				"undef_father"
+			],
+			[
+				"parameters",
+				"parametersToRCode"
+			],
+			[
+				"rScript",
+				"rScriptWorkingDirectory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "padrao.hpp",
+			"settings":
+			{
+				"buffer_size": 7689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "padrao.cpp",
+			"settings":
+			{
+				"buffer_size": 35142,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/make_run.sublime-build",
+	"command_palette":
+	{
+		"height": 232.0,
+		"selected_items":
+		[
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":e",
+				":$ - EOF"
+			],
+			[
+				":xml",
+				"Set Syntax: XML"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":c",
+				"Set Syntax: C"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				":ww",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"c",
+				"Code Folding: Unfold All"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 256.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/mnt/d/Fox/serios/luar/lfsWin/codigo/c_code/I",
+		"/home/garcia/workspace/meningite/WfMeningite-2014-07-17-IDsAlterados.xpdl",
+		"/mnt/d/Fox/serios/luar/meningite/WfMeningite",
+		"/mnt/d/Fox/serios/luar/lfsWin/codigo/c_code/libs/wbfs/libwbfs/libwbfs.h",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/lfsinit.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/lfsinit",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/Makefile",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/wbfs/libwbfs/wiidisc.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/wbfs/libwbfs/wiidisc.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/wbfs/libwbfs/libwbfs_unix.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/wbfs/libwbfs_os.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/wbfs/libwbfs/libwbfs.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/wbfs/libwbfs/libwbfs.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/lfs/filesystem.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libs/lfs/filesystem.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/lista/lista.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/lista/lista.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/tools.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/tools.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libwbfs/wiidisc.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libwbfs/wiidisc.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libwbfs/libwbfs_unix.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libwbfs_os.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libwbfs/libwbfs.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/libwbfs/libwbfs.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/c_code/wbfs.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/tools.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/tools.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/libwbfs/wiidisc.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/libwbfs/wiidisc.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/libwbfs/libwbfs_unix.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/libwbfs_os.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/libwbfs/libwbfs.h",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/libwbfs/libwbfs.c",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/Makefile",
+		"/mnt/d/Fox/serios/luar/lfs/codigo/wbfs.c",
+		"/mnt/d/Fox/serios/luar/LFS/AviDown_AnimeNSK_High_School_DxD_New_01.mp4.temp",
+		"/mnt/d/Fox/serios/luar/LFS/codigo/libwbfs/rijndael.c",
+		"/mnt/d/Fox/serios/luar/LFS/codigo/libwbfs/libwbfs_win32.c",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/readme.txt",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/tools.h",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/tools.c",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/libwbfs/wiidisc.h",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/libwbfs/wiidisc.c",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/libwbfs/libwbfs.h",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/libwbfs/libwbfs.c",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/wbfs_os.h",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/Makefile",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/wbfs.c",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/wiidisc.h",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/wiidisc.c",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/libwbfs.h",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/codigo/libwbfs.c",
+		"/mnt/luar/garcia/workspace/LFS - Luar File System/exemplos_com_videos_em_python/vplayer.py",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/.talkin.sublime-project",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/artigo-CTTX/r-no-flux-2014-04-14-vingarcia.tex",
+		"/mnt/d/Fox/temp/temp.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/artigo-CTTX/r-no-flux-2014-04-14-vingarcia.txt",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/template_luar.tex",
+		"/mnt/d/Fox/serios/luar/svn/flux20/src/trunk/Flux2/src/br/ufmg/dcc/luar/flux/service/rserve/RCall2.java",
+		"/mnt/d/Fox/serios/luar/svn/flux20/src/trunk/Flux2/src/br/ufmg/dcc/luar/flux/service/rserve/RStat2.java",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/citotoxidade-INMETRO/citotoxidade/scriptR/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/Trabalho OJB/Relatorios OJB/Relatorio atividades 2013-2 para o OJB/LaTeX do Relatorio/relatorio.tex",
+		"/mnt/d/Fox/temp/fabrica_de_slides/template_luar.tex",
+		"/mnt/d/Fox/temp/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/flux/fluxdev/fluxdev/doc/r_no_flux/documentacao_r.tex",
+		"/home/fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/resenha-desonra.tex",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/mnt/d/Fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/resenha-desonra.tex",
+		"/home/fox/serios/ufmg/Psicanálise/Trabalho 1 - Filme Desonra/abnt-classe-doc.tex",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/flux/fluxdev/fluxdev/doc/r_no_flux/Makefile",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/mnt/d/Fox/.config/sublime-text-2/Packages/User/make_run.sublime-build",
+		"/home/garcia/workspace/citotoxidade-INMETRO/citotoxidade/scriptR/graficoR.R",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/Makefile",
+		"/run/user/1000/gvfs/sftp:host=150.164.3.39/home/garcia/workspace/apresentacoes/fabrica_de_slides/sftp",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/vocabulario.talk",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/padrao.cpp",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/Makefile",
+		"/home/conf. and builds/workspace/ufmg/poc/talkin/codigo/main.cpp",
+		"/mnt/d/Fox/teste.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LFS",
+			"aes_decrypt",
+			"aes_encrypt",
+			"aes_init",
+			"key_data_len",
+			"key_data",
+			"key_data_len",
+			"c_len",
+			"lfs_read",
+			"ciphertext",
+			"ciphertextkkk",
+			"ciphertext",
+			"key",
+			"key_data",
+			"read_hdsector",
+			"write_hdsector",
+			"read_hdsector",
+			"lfs_read",
+			"fDest",
+			"verbose",
+			"fMachineRead",
+			"verbose",
+			"Não encontrado o arquivo",
+			"não encontrado o ",
+			"fFifo",
+			"argv",
+			"MBkjkjk",
+			"argv",
+			"putc",
+			"argv",
+			"argc",
+			"silen",
+			"mwindows",
+			"fListAll",
+			"arg",
+			"Diagnostico",
+			"lfs_read",
+			"p->callback",
+			"write_hdsector",
+			"read_hdsector",
+			"p->callback_data",
+			"p->read_hdsector",
+			"p->write_hdsector",
+			"_key",
+			"aes_cbc",
+			"read",
+			"++",
+			"tFileHeader",
+			"tHeader",
+			"header",
+			"tHeader",
+			"header",
+			"tHeader",
+			"header",
+			"tHeader",
+			"fh",
+			"tFileHeader",
+			"findName",
+			"fd",
+			"findName",
+			"fileDesc",
+			"header",
+			"resp",
+			"fileDesc",
+			"fd",
+			"fileDesc",
+			"FileHeader",
+			"fh",
+			"Little",
+			"fh",
+			"lfs_free",
+			"fh",
+			"this",
+			"last",
+			"this",
+			"fh",
+			"tFileHeader",
+			"fh",
+			"tFileDesc",
+			"header",
+			"resp",
+			"tFileDesc",
+			"lfs_fileDesc",
+			"lfs_try_open_partition",
+			"addr",
+			"partition",
+			"pOrig",
+			"ps",
+			"getDriverID",
+			"validaParticao",
+			"lfs_try_open_partition",
+			"#define",
+			"lfs_malloc",
+			"listFiles",
+			"readPartition",
+			"insert",
+			"wbfs_t",
+			"#define",
+			"u32 byte",
+			"lfs_free",
+			"byteToNSec",
+			"findFile",
+			"lista.h",
+			"main",
+			"lista",
+			"antes",
+			"printf",
+			"valida",
+			"lfs_try_open",
+			"main",
+			"usbDrive",
+			"main",
+			"valida",
+			"main",
+			"getDriver",
+			"main",
+			"wbfs_try_open_partition",
+			"lfs_try_open",
+			"wbfs_try_open_partition",
+			"wbfs",
+			"pDest",
+			"malloc",
+			"fPlay",
+			"AES",
+			"fd",
+			"findName",
+			"readParti",
+			"insert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p",
+			"lfs_read",
+			"lfs_write",
+			"lfs_t",
+			"lfs_tr",
+			"lfs_try_open_partition",
+			"SEC_SIZE",
+			"getVar"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "padrao.hpp",
+					"settings":
+					{
+						"buffer_size": 7689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "padrao.cpp",
+					"settings":
+					{
+						"buffer_size": 35142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 96.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 253.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true
+}
